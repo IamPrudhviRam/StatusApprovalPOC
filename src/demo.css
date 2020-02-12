@@ -1,0 +1,10 @@
+.demo {
+  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif;
+}
+.test {
+  margin-top: 100px;
+}
+.MuiLinearProgress-root {
+  margin-top: 3px;
+}
